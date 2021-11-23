@@ -1,8 +1,12 @@
 ### Hi there 👋, Ronald Chittinappilly
-#### Learning Software Development
+#### Software Developer
 ![Learning Software Development](https://newrelic.com/sites/default/files/2021-04/software-developers-banner-copy.jpg)
 
-I'm learning to be a software developer and I'm continuing to learn and add to my portfolio. My interests include crypto, sports (badminton), and random others - juggling, piano, guitar, card magic etc.
+I'm a software developer living in New Zealand.
+
+My interests include crypto, sports, and random others - juggling, piano, guitar, card magic etc.
+
+I like to work with different technolgies and expand my skillset.
 
 Skills: REACT / JS / HTML / CSS
 
