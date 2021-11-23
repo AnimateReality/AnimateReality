@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS
 
 Find me on:
 <ul>
- <li> ronald-chittinappilly.netlify.app </li>
+ <li> <a href=" ronald-chittinappilly.netlify.app">My Website</a></li>
  <li> <a href="https://www.linkedin.com/in/ronald-chittinappilly-172a88182/">Linkedin</a> </li>
  </ul>
 
