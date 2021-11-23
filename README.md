@@ -1,6 +1,6 @@
 ### Hi there 👋, Ronald Chittinappilly
 #### Learning Software Development
-![Learning Software Development](https://www.a2zwebinfotech.com/wp-content/uploads/2021/07/software-development-banner.png)
+![Learning Software Development](https://newrelic.com/sites/default/files/2021-04/software-developers-banner-copy.jpg)
 
 I'm learning to be a software developer and I'm continuing to learn and add to my portfolio. My interests include crypto, sports (badminton), and random others - juggling, piano, guitar, card magic etc.
 
