@@ -10,6 +10,10 @@ I like to work with different technolgies and expand my skillset.
 
 Skills: REACT / JS / HTML / CSS
 
+Find me on:
+ ronald-chittinappilly.netlify.app 
+ <a href="https://www.linkedin.com/in/ronald-chittinappilly-172a88182/">Linkedin</a>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnimateReality)  
