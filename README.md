@@ -11,8 +11,12 @@ I like to work with different technolgies and expand my skillset.
 Skills: REACT / JS / HTML / CSS
 
 Find me on:
- ronald-chittinappilly.netlify.app 
- <a href="https://www.linkedin.com/in/ronald-chittinappilly-172a88182/">Linkedin</a>
+<ul>
+ <li> ronald-chittinappilly.netlify.app </li>
+ <li> <a href="https://www.linkedin.com/in/ronald-chittinappilly-172a88182/">Linkedin</a> </li>
+ </ul>
+
+
 
 
 
