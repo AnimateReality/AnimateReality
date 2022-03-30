@@ -4,7 +4,7 @@
 
 I'm a software developer living in New Zealand.
 
-My interests include crypto, sports, and random others - juggling, piano, guitar, card magic etc.
+I enjoy playing sports and actively participate in playing badminton as well as other hobbies such as table tennis, piano and juggling. In my downtime, I also like researching and getting involved with cryptocurrencies and blockchain technology. As a developer, I enjoy learning new things and try to make practical applications from the things that I learn.
 
 I like to work with different technolgies and expand my skillset.
 
