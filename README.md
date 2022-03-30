@@ -1,4 +1,4 @@
-### Hi there 👋, Ronald Chittinappilly
+### Hi there 👋, I'm Ronald Chittinappilly
 #### Software Developer
 ![Learning Software Development](https://newrelic.com/sites/default/files/2021-04/software-developers-banner-copy.jpg)
 
