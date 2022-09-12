@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ronald Chittinappilly
 #### Software Developer
-![Learning Software Development](https://www.linkedin.com/in/ronald-chittinappilly/overlay/background-image/)
+![Learning Software Development]([https://www.linkedin.com/in/ronald-chittinappilly/overlay/background-image/](https://media-exp1.licdn.com/dms/image/C4D16AQFgmg0MfE85TA/profile-displaybackgroundimage-shrink_350_1400/0/1657202412185?e=1668643200&v=beta&t=CqAd8txJaSUokhAYN6OLsDDnvZ2EPUZjKD3bXxgjWGI))
 
 I'm a software developer living in New Zealand.
 
