@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ronald Chittinappilly
 #### Software Developer
-![Learning Software Development]https://media-exp1.licdn.com/dms/image/C4D16AQFgmg0MfE85TA/profile-displaybackgroundimage-shrink_350_1400/0/1657202412185?e=1674691200&v=beta&t=PhEA-myi0YwDsoXMw2JHLa2TTkz5ZGyI-AUu2CeuloI)
+![Learning Software Development](https://media-exp1.licdn.com/dms/image/C4D16AQFgmg0MfE85TA/profile-displaybackgroundimage-shrink_350_1400/0/1657202412185?e=1674691200&v=beta&t=PhEA-myi0YwDsoXMw2JHLa2TTkz5ZGyI-AUu2CeuloI)
 
 I'm a software developer living in New Zealand.
 
