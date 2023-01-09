@@ -24,7 +24,7 @@ I like to work with different technolgies and expand my skillset.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnimateReality)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimateReality&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimateReality&langs_count=6&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimateReality&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnimateReality&show_icons=true&theme=transparent)  
 
